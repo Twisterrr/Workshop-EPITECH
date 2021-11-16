@@ -1,5 +1,5 @@
 # Workshop Docker
-Epitech Workshop, DOcker
+Epitech Workshop, Docker
 
 ## Requirements
 ### Installation de Docker
@@ -11,8 +11,20 @@ Epitech Workshop, DOcker
 * docker-compose --version
 
 ## Workshop
+### Docker
+* Démarrez votre premier conteneur Docker.
+* Créer votre premier Dockerfile
 ### Docker Compose
 * Créer un fichier : docker-compose.yml
+* Lancer Wordpress avec votre docker-compose : http://127.0.0.1:8000
+-> version : 3
+-> image : mysql:5.7
+-> port : 8000:80
+
+## Documentation
+* https://devopssec.fr/article/creer-ses-propres-images-docker-dockerfile
+* https://scientium.fr/creer-sa-premiere-image-docker-avec-dockerfile/
+* https://www.nicelydev.com/docker/creer-fichier-docker-compose-yml
 
 ## Authors
 
